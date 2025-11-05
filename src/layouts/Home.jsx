@@ -3,9 +3,10 @@ import Navbar from '../Components/Navbar'
 import Upper from '../Components/Upper'
 import Picture from '../Components/Picture'
 import Card from '../Components/Card'
+import Footer from '../Components/Footer'
 export default function Home() {
   return (
-    <div>
+    <div className="bg-gray-900 min-h-screen">
       <Navbar/>
       <Upper/>
       
@@ -13,6 +14,7 @@ export default function Home() {
       <Picture/>
       <Card/>
     </main>
+    <Footer/>
     </div>
   )
 }
