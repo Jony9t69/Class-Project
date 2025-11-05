@@ -1,0 +1,162 @@
+[
+  {
+    "id": "bd-001",
+    "title": "Sajek Valley Adventure",
+    "summary": "মেঘের রাজ্য সাজেকে সূর্যোদয় দেখা, পাহাড়ি ট্রেইল হাঁটা এবং আদিবাসী সংস্কৃতি উপভোগ।",
+    "location": {
+      "division": "Rangamati",
+      "district": "Rangamati",
+      "region": "Chittagong Hill Tracts",
+      "coordinates": { "lat": 23.3813, "lng": 92.2935 }
+    },
+    "difficulty": "moderate",
+    "duration_days": 3,
+    "best_season": ["November", "December", "January", "February"],
+    "cost_estimate_bdt": 7500,
+    "highlights": ["Sunrise viewpoint", "Hiking", "Local food experience"],
+    "recommended_gear": ["warm clothes", "hiking shoes", "camera"],
+    "images": ["https://i.ibb.co.com/cSH4M4D4/blogz-B8-BGDn5-J45-Lissk-NSi5r3-F07ohq-WXZ4.png"],
+    "rating": 4.8,
+    "available": true
+  },
+  {
+    "id": "bd-002",
+    "title": "Sundarbans Mangrove Safari",
+    "summary": "বিশ্বের বৃহত্তম ম্যানগ্রোভ বনজঙ্গলে নৌভ্রমণ, রয়েল বেঙ্গল টাইগার ও ডলফিন দেখা।",
+    "location": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "region": "Southwest Delta",
+      "coordinates": { "lat": 22.4185, "lng": 89.5841 }
+    },
+    "difficulty": "easy",
+    "duration_days": 2,
+    "best_season": ["October", "November", "February", "March"],
+    "cost_estimate_bdt": 9500,
+    "highlights": ["Boat ride", "Wildlife spotting", "Forest trail walk"],
+    "recommended_gear": ["hat", "mosquito repellent", "binoculars"],
+    "images": ["https://i.ibb.co.com/ffHycMk/1-sundarbans-nationalgeographic-1460894.jpg"],
+    "rating": 4.7,
+    "available": true
+  },
+  {
+    "id": "bd-003",
+    "title": "Saint Martin Island Camping",
+    "summary": "নীল জল আর সাদা বালির দ্বীপে রাত কাটানো, তারাভরা আকাশে আগুন জ্বেলে গল্প।",
+    "location": {
+      "division": "Chittagong",
+      "district": "Cox’s Bazar",
+      "region": "Bay of Bengal Coast",
+      "coordinates": { "lat": 20.6273, "lng": 92.3210 }
+    },
+    "difficulty": "easy",
+    "duration_days": 2,
+    "best_season": ["November", "December", "January", "February"],
+    "cost_estimate_bdt": 5500,
+    "highlights": ["Beach camping", "Snorkeling", "Seafood dinner"],
+    "recommended_gear": ["tent", "swimwear", "torchlight"],
+    "images": ["https://i.ibb.co.com/V0N1zcdW/Canyonlands-NP-Camping.webp"],
+    "rating": 4.9,
+    "available": true
+  },
+  {
+    "id": "bd-004",
+    "title": "Nafakhum Waterfall Trek",
+    "summary": "বাংলাদেশের বৃহত্তম জলপ্রপাতের পথে পাহাড়ি নদী, ট্রেইল আর জঙ্গলজুড়ে এক দারুণ অভিযাত্রা।",
+    "location": {
+      "division": "Bandarban",
+      "district": "Thanchi",
+      "region": "Hill Tracts",
+      "coordinates": { "lat": 21.6880, "lng": 92.3966 }
+    },
+    "difficulty": "hard",
+    "duration_days": 3,
+    "best_season": ["October", "November", "December"],
+    "cost_estimate_bdt": 8000,
+    "highlights": ["Waterfall trekking", "Boat ride on Sangu river", "Tribal village visit"],
+    "recommended_gear": ["backpack", "trek shoes", "dry bag"],
+    "images": ["https://i.ibb.co.com/WN4hWc5D/1740373837.webp"],
+    "rating": 4.9,
+    "available": true
+  },
+  {
+    "id": "bd-005",
+    "title": "Ratargul Swamp Forest Exploration",
+    "summary": "জলের নীচে গাছের জঙ্গল — নৌকা চেপে স্বচ্ছ পানির ভেতর দিয়ে ভেসে যাওয়া।",
+    "location": {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "region": "Northeast Wetlands",
+      "coordinates": { "lat": 25.0073, "lng": 91.8881 }
+    },
+    "difficulty": "easy",
+    "duration_days": 1,
+    "best_season": ["June", "July", "August"],
+    "cost_estimate_bdt": 3000,
+    "highlights": ["Boat tour", "Forest photography", "Local guide narration"],
+    "recommended_gear": ["life jacket", "cap", "camera"],
+    "images": ["https://i.ibb.co.com/DfNBHrP5/Sylhet-to-Ratargul-Swamp-Forest-transportation-1024x585.jpg"],
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    "id": "bd-006",
+    "title": "Lalakhal River Kayaking",
+    "summary": "সবুজ নীল পানির উপর দিয়ে নিজ হাতে কায়াক চালানো — সিলেটের এক অনন্য অভিজ্ঞতা।",
+    "location": {
+      "division": "Sylhet",
+      "district": "Jaintapur",
+      "region": "Northeast Hills",
+      "coordinates": { "lat": 25.1142, "lng": 92.0714 }
+    },
+    "difficulty": "moderate",
+    "duration_days": 1,
+    "best_season": ["October", "November", "December", "January"],
+    "cost_estimate_bdt": 2500,
+    "highlights": ["Kayaking", "River view", "Boat lunch stop"],
+    "recommended_gear": ["dry bag", "waterproof phone cover", "sunscreen"],
+    "images": ["https://i.ibb.co.com/jkdrKk2k/baoting-edited-01.jpg"],
+    "rating": 4.8,
+    "available": true
+  },
+  {
+    "id": "bd-007",
+    "title": "Tanguar Haor Boat Night Stay",
+    "summary": "তরীতে চড়ে ভেসে থাকা, হাওরের পাখি দেখা ও রাতের তারাভরা আকাশে ভাসমান জীবন।",
+    "location": {
+      "division": "Sunamganj",
+      "district": "Sunamganj",
+      "region": "Haor Basin",
+      "coordinates": { "lat": 25.0893, "lng": 91.1588 }
+    },
+    "difficulty": "easy",
+    "duration_days": 2,
+    "best_season": ["June", "July", "August", "September"],
+    "cost_estimate_bdt": 7000,
+    "highlights": ["Boat stay", "Bird watching", "Evening BBQ"],
+    "recommended_gear": ["light jacket", "power bank", "camera"],
+    "images": ["https://i.ibb.co.com/7tXwwbnH/tangoar-hawar-house-boat.jpg"],
+    "rating": 4.7,
+    "available": true
+  },
+  {
+    "id": "bd-008",
+    "title": "Kuakata Sunrise & Sunset Ride",
+    "summary": "একই সৈকতে সূর্যোদয় ও সূর্যাস্ত দেখা — মোটরবাইক বা সাইকেলে কুয়াকাটার সোনালী সকাল।",
+    "location": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "region": "Southern Coast",
+      "coordinates": { "lat": 21.8229, "lng": 90.1203 }
+    },
+    "difficulty": "easy",
+    "duration_days": 2,
+    "best_season": ["October", "November", "December", "January"],
+    "cost_estimate_bdt": 5000,
+    "highlights": ["Beach ride", "Sunrise view", "Local fishing village"],
+    "recommended_gear": ["sunglasses", "helmet", "sandals"],
+    "images": ["https://i.ibb.co.com/0RPy51z0/DSC-1689.jpg"],
+    "rating": 4.5,
+    "available": true
+  }
+]
